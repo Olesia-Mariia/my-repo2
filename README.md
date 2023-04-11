@@ -18,4 +18,7 @@ Second - in terminal use `git init` comand to Initialized empty Git repository i
 
 `git push -u origin main`
 
-just to try
+## See the changes 
+
+With `git diff` you can see what changes was did 
+With `git log` you can see all commits OR `git log --oneline`
